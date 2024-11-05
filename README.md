@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/Ivan_len.svg)](https://codeforces.com/profile/Ivan_len)
 <!--
 **IvanLenn/IvanLenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
